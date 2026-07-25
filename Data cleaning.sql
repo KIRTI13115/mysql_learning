@@ -1,6 +1,8 @@
 -- data cleaning project
 -- data cleaning is a process of converting raw data into useful data so that visualizations can be performed on it
 
+-- https://www.kaggle.com/datasets/swaptr/layoffs-2022 - used the data from here
+
 SELECT *
 FROM layoffs;
 
