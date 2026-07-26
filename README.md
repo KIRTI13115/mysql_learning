@@ -15,6 +15,13 @@ Topics covered so far
  WINDOW FUNCTIONS
 
  Main topics are covered
+
+ Repo also contains data cleaning project on data obtained from kaggle.
+ Main 4 tasks performed in this project are : 
+ 1. Remove Duplicates
+ 2. Standardization
+ 3. Removing nulls and blanks
+ 4. Remove unnecessary rows and columns
  
 
  Note
