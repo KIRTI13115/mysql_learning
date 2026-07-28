@@ -22,6 +22,12 @@ Topics covered so far
  2. Standardization
  3. Removing nulls and blanks
  4. Remove unnecessary rows and columns
+
+After cleaning data i performed exploratory data analysis on the same data 
+Found largest layoffs by company, industry, location and stage
+Looked at some progressions over years 
+then rolling layoffs by month
+
  
 
  Note
